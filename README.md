@@ -58,3 +58,4 @@ If you want to build an application that uses clash as a library, check out the 
 This software is released under the GPL-3.0 license.
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDreamacro%2Fclash.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDreamacro%2Fclash?ref=badge_large)
+change by hrushiiiiiii
